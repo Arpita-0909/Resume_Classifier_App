@@ -10,7 +10,8 @@ Live demo
 http://localhost:8501/
 
 App Link
-https://resumeclassifierapp-6rvfg3hqmhvpsqwaxdyj27.streamlit.app/
+https://resumeclassifierapp-6rvfg3hqmhvpsqwaxdyj27.streamlit.app/ 
+[https://bit.ly/4df4Sh9]
 
 ##  Features
 -  Upload resume (PDF format)
