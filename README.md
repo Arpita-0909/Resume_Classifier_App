@@ -6,6 +6,11 @@ The **Resume Classifier App** is a machine learning-based web application that a
 This helps recruiters quickly screen and categorize resumes efficiently.
 
 ---
+Live demo
+http://localhost:8501/
+
+App Link
+https://resumeclassifierapp-6rvfg3hqmhvpsqwaxdyj27.streamlit.app/
 
 ##  Features
 -  Upload resume (PDF format)
